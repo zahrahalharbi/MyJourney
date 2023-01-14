@@ -2,14 +2,14 @@
 
 # Challenge 3 - Make Someone’s Life Easier
 
-##Topics Included in this Readme File:
-Big Idea
-Challenge Statement
-Solution Concept
-List of technologies I used to develop this app
-Upcoming Features
-a brief demo of the app
-Challenge Summary
+## Topics Included in this Readme File:
+1. Big Idea
+2. Challenge Statement
+3. Solution Concept
+4. List of technologies I used to develop this app
+5. Upcoming Features
+6. A brief demo of the app
+7. Challenge Summary
 
 ## Our Big Idea:
 
@@ -31,7 +31,7 @@ A diary for those who want to express their feelings to keep great memories so t
 4. Accessibility (Voice Over)
 5. Localization
 
-##Upcoming Features:
+## Upcoming Features:
 
 1. Add your expression to the diary
 2. Add voice recording
